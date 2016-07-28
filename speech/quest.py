@@ -134,6 +134,3 @@ def main(text):
 	#except:
 	#	os.system('cls')
 	return ans
-
-###MAIN###
-print(main(input()))
