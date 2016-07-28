@@ -14,8 +14,6 @@ while True:
 		os.remove('command.pcm')
 		answer = quest.main(command2)
 		print(answer)
-		#synthesis.synth(answer)
+		synthesis.synth(answer)
 	else:
 		continue
-
- 
