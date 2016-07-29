@@ -43,14 +43,14 @@ I.Добавляем исполняемые файлы в /usr/bin, /bin или 
 ```sh
 Computer@user$ bricky
 <or>
-Computer@user$ main
+Computer@user$ brick
 ```
 II.просто кидаем файлы в папку
 ```sh
 Computer@user$ cd <Папка>
 Computer@user$ ./bricky
 <or>
-Computer@user$ ./main
+Computer@user$ ./brick
 ```
 ####Запуск программы из-под Windows:
 Выполняем bricky.exe
