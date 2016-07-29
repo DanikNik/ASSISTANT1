@@ -34,7 +34,7 @@ def Weather() def Trans() def WhatIs()
 ```
 Ветка speech данного проекта выполняет исключительно обработку речи, и взаимодействие с веткой request.
 ```python
-			brick.py
+		   	 brick.py
 start_request.py  quest.py(ветка request)
   requests.py        
 ```
@@ -52,5 +52,5 @@ Computer@user$ ./bricky
 <or>
 Computer@user$ ./main
 ```
-####Пример запуска программы из-под Windows:
+####Запуск программы из-под Windows:
 Выполняем bricky.exe
